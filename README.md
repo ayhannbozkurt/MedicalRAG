@@ -14,7 +14,7 @@ A Retrieval-Augmented Generation (RAG) system for medical information and drug i
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/[YOUR-USERNAME]/Medical-RAG.git
+git clone https://github.com/ayhannbozkurt/Medical-RAG.git
 cd Medical-RAG
 ```
 
